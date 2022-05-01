@@ -1,0 +1,9 @@
+<xml>
+    <id>"B226"</id>
+    <summary>"In Delivery Information Page information displayed in Russian"</summary>
+    <stepsToReproduce>"Open Homepage Online Shop Site, Click on Delivery Information button"</stepsToReproduce>
+    <actualResult>"In Delivery Information Page information displayed in Russian"</actualResult>
+    <expectedResult>"In Delivery Information Page information displayed in English"</expectedResult>
+    <severity>"high"</severity>
+    <priority>"low"</priority>
+    <attachments>"none"</attachments>
