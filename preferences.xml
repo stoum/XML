@@ -1,6 +1,7 @@
-<xml>
+<?xml version="1.0" encoding="UTF-8" ?>
 	<favMovie>"The Bucket List"</favMovie>
 	<favSeries>"Sniffer"</favSeries>
 	<favFood>"trout"</favFood>
 	<favSeason>"autumn"</favSeason>
 	<wishCountry>"Japan"</wishCountry>
+</xml>
