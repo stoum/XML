@@ -1,4 +1,4 @@
-<xml>
+<?xml version="1.0" encoding="UTF-8" ?>
 	<skill_1>"QA theory, SDLC, STLC"<skills_1>
 	<skill_2>"client-server architecture"</skill_2>
 	<skill_3>"HTTP methods"</skill_3>
@@ -18,3 +18,4 @@
 	<skill_17>"Jmeter"</skill_17>
 	<skill_18>"Scrum"<skill_18>
 	<skill_19>"Python basics"</skill_19>
+</xml>
